@@ -1,5 +1,4 @@
 ![logo](https://github.com/krutuja9/krutuja9/blob/main/Banner.png)
-![logo]()
 <h1 align="center">Hi 👋, I'm Rutuja Kokate</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://gifdb.com/images/high/pc-programming-umiko-ahagon-xl8rbijsvnnrka63.gif"
