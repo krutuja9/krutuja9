@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rutuja Kokate</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-<img align="right" alt="coding" width="340" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
+<img align="right" alt="coding" width="240" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krutuja9&label=Profile%20views&color=0e75b6&style=flat" alt="krutuja9" /> </p>
 
