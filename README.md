@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Rutuja Kokate</h1>
 <h3 align="center">A passionate Software developer from India</h3>
-
+<img align="center" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krutuja9&label=Profile%20views&color=0e75b6&style=flat" alt="krutuja9" /> </p>
 
@@ -13,7 +13,7 @@
 - 💬 Ask me about **React,Java,Cpp,Express,Javascript**
 
 - 📫 How to reach me **krutuja609@gmail.com**
-<img align="right" alt="coding" width="240" src="https://user-images.githubusercontent.com/74038190/249570803-02293768-9242-47e1-bf8f-d084ba0a2d1d.gif">
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rutuk609" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rutuk609" height="30" width="40" /></a>
